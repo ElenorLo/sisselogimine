@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+	<meta charset="utf-8">
+	<title>Elenor Loitmaa, veebiprogrammeerimine</title>
+</head>
+<body>
+	<img src="pic/veebiprogrammeerimine_2026_ID.png" alt="">
+	<h1>Elenor Loitmaa, veebiprogrammeerimine</h1>
+	<p>See leht on loodud veebiprogrammeerimise kursusel <a href="https://www.tlu.ee">Tallinna Ülikoolis</a> ning ei sislda tأµsiseltvأµetavat sisu!</p>
+	<p>Esialgu tutvusime lihtsalt HTML keelega, peatselt programmeerime.</p>
+	
+	<ul>
+		<li><a href="/logout">Logi välja</a></li>
+		<br>
+		<li><a href="/galleryPhotoUpload">Fotode üleslaadimine</a></li>
+		<li><a href="/galleryPhoto">Fotogalerii</a></li>
+	</ul>
+</body>
+</html>
+
+
